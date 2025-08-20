@@ -9,7 +9,9 @@ n = int(input("Enter the number of students: "))
 # Step 3: Input student names
 for i in range(n):
     name = input(f"Enter name of student {i+1}: ")
+    name = name.title()  
     students.append(name)
+
 
 # Step 4: Sort the list alphabetically
 students.sort()
