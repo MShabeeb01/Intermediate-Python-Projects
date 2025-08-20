@@ -73,3 +73,11 @@ Description: Generates random passwords of desired length and complexity using P
 Why it’s useful: Introduces modules and randomization, essential for security and automation tasks.
 
 Concepts used: importing modules, Python’s random module, randomization, string manipulation
+
+8️⃣ Student Roll Number Generator (Alphabetical Order)
+
+Description: Takes a list of student names, sorts them alphabetically, and assigns roll numbers based on the order.
+
+Why it’s useful: Helps understand list operations, sorting, and assigning unique identifiers automatically.
+
+Concepts used: list creation, user input, append(), sort(), enumerate(), loops
